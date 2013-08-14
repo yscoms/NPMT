@@ -1,4 +1,4 @@
 NPMT
 ====
 
-Neo PokeMon Traner! (Nodejs Personal Music Traveler)
+Neo PokeMon Trainer! (Nodejs Personal Music Traveler)
